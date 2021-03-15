@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="the">The colosseum</string>
+    <string name="one">One of the most recognizable sites in the world</string>
+    <string name="numbers">312</string>
+    <string name="in">перейти</string>
+    <string name="enter">Введите цифру</string>
+    <string name="df">Поменять</string>
+</resources>
